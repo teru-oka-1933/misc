@@ -2,7 +2,7 @@
 
 これまで研究室の勉強会などで使ってきた資料をさらしている場所です．
 
-注意：　間違い等，含んでいるかもしれません．
+注意：　間違いや誤解等，多々含んでいるかもしれません．
 
 ## Speech and Language Processng(SLP) の勉強会で使った資料
 - instruction_of_info-theory_for_language_model.pdf
