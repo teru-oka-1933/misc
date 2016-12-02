@@ -10,8 +10,8 @@
   - 「言語モデルのための情報理論入門」
   - instruction_of_info-theory_for_language_model.pdf
 
--HMMの章でHMMの学習に使う式の導出がちゃんと書いてなかったので，ちゃんと書いてみたもの．
-  -「HMMの学習」
+-　HMMの章でHMMの学習に使う式の導出がちゃんと書いてなかったので，ちゃんと書いてみたもの．
+  -　「HMMの学習」
   - hmm.pdf
 
 ## IBMモデルの論文[Brown et al. 1993]を読み解く際に作った資料
